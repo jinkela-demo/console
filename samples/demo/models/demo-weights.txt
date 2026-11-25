@@ -1,0 +1,11 @@
+ModelCraft demo build
+=====================
+
+This file stands in for a trained model artifact: the demo API does not ship
+real weights, so the "Download" action in the model registry serves this
+placeholder instead.
+
+Build the demo with:
+
+    bun run build:demo
+    bun run start
